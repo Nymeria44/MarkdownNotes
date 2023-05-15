@@ -62,7 +62,7 @@ $$
 # Mutual Inductance
 Mutual inductance is when two circuits are linked to each other by a magnet field.
 Mutual inductance is given the symbol $M$.
-![Mutual-inductance-circuit-diagram.png](../../_resources/Mutual-inductance-circuit-diagram.png)
+![Mutual-inductance-circuit-diagram.png](_resources/Mutual-inductance-circuit-diagram.png)
 
 ## Mutual Inductance Analysis
 A common method used to analyse circuits with mutual inductance is through mesh analysis:

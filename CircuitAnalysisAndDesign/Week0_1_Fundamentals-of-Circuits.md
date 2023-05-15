@@ -82,7 +82,7 @@ $$
 
 # Delta-to-Wye Equivalent Circuits
 It is possible to transform a circuit in the delta configuration to the wye configuration and vice versa.
-![DeltaToWyeImage.png](../../_resources/DeltaToWyeImage.png)
+![DeltaToWyeImage.png](_resources/DeltaToWyeImage.png)
 
 ## Equations for Wye to delta
 $$
@@ -97,14 +97,13 @@ R_a &= \frac{R_1 R_2 + R_2 R_3 + R_3 R_1}{R_1} \\
 R_b &= \frac{R_1 R_2 + R_2 R_3 + R_3 R_1}{R_2} \\
 R_c &= \frac{R_1 R_2 + R_2 R_3 + R_3 R_1}{R_3} \\
 \end{align*}
-
 $$
 
 # Thevenin and Norton Equivalents
 This a common method used to analyse circuits when you don't care about the behaviour of the inside of the circuit and just care about factors such as total power consumption and so on.
 
 Thevenin Circuit Diagrams are depicted as:
-![TheveninCircuitDiagram.png](../../_resources/TheveninCircuitDiagram.png)
+![TheveninCircuitDiagram.png](_resources/TheveninCircuitDiagram.png)
 
 Because of how simple the circuit is the relationship between the voltage and the current is just Ohm's law:
 $$

@@ -17,7 +17,7 @@ $$
 
 # The Inverting-Amplifier Circuit
 The inverting Op-Amp can be used to invert the input voltage $v_s$.
-![InvertingOpAmpImage.png](../../_resources/InvertingOpAmpImage.png)
+![InvertingOpAmpImage.png](_resources/InvertingOpAmpImage.png)
 
 The equation that describes the relationship of the input to output voltage is:
 $$
@@ -26,7 +26,7 @@ $$
 
 # The Non-inverting-Amplifier Circuit
 The non-inverting-amplifier circuit can be used to boots to dampen the strength of an input voltage.
-![NonInvertAmpImage.png](../../_resources/NonInvertAmpImage.png)
+![NonInvertAmpImage.png](_resources/NonInvertAmpImage.png)
 
 The relationship between $v_o$ and $v_g$ is:
 $$
@@ -35,7 +35,7 @@ $$
 
 # The Summing-Amplifier Circuit
 The summing-amplifier circuit can be used to sum voltages.
-![SummingAmpImage.png](../../_resources/SummingAmpImage.png)
+![SummingAmpImage.png](_resources/SummingAmpImage.png)
 
 The equation that describes the relationship of the input voltages to the output voltage is:
 $$
@@ -44,7 +44,7 @@ $$
 
 # The Difference-Amplifier Circuit
 The output of the The difference-amplifier circuit is equal to the different between the two input voltages.
-![DiffAmpCircuitImage.png](../../_resources/DiffAmpCircuitImage.png)
+![DiffAmpCircuitImage.png](_resources/DiffAmpCircuitImage.png)
 
 The voltage relationship is:
 $$

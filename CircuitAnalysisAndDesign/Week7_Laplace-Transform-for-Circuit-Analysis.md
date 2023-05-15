@@ -2,7 +2,7 @@
 The Laplace Transform is helpful in circuit analysis as it allows you to bypass the process of integrating functions in the time domain.  
 
 The $s$ domain transformation of circuit elements is best summarised in the following table:
-<img src="../../_resources/CircuitElementsInSdomain.png" alt="CircuitElementsInSdomain.png" width="649" height="777">
+<img src="_resources/CircuitElementsInSdomain.png" alt="CircuitElementsInSdomain.png" width="649" height="777">
 *Note that current and voltage are represented with a capital letter ($V$ and $I$) within the $s$ domain.*
 
 If there are no initial conditions in the circuit, all circuit elements are in the form $V = Z I$ (where $Z$ is the specific ==impedance== of the component). As all components are in this form, this makes ==KVL== and ==KCL== simple tools to employ.

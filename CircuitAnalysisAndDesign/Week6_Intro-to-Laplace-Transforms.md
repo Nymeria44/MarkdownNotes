@@ -31,7 +31,7 @@ $$
 \int^\infin_{-\infin} f(t) \delta(t - a) = f(a)
 $$
 
-![ImpluseFunction.png](../../_resources/ImpluseFunction.png)
+![ImpluseFunction.png](_resources/ImpluseFunction.png)
 
 The technical definition of the impulse step function is:
 - The amplitude approaches infinity at a specific point $t = a$.
@@ -42,19 +42,19 @@ The technical definition of the impulse step function is:
 
 # Laplace Transform Table
 Below is a breakdown of some of the most common Laplace Transforms. This allows us to transform functions to and from the $s$-domain without integrating anything.
-<img src="../../_resources/LaplaceTransformTable.png" alt="LaplaceTransformTable.png" width="722" height="585">
+<img src="_resources/LaplaceTransformTable.png" alt="LaplaceTransformTable.png" width="722" height="585">
 
 # Operational Transforms
 Operational transforms refer to how Laplace transformed functions respond to mathematical manipulation:
 
-![LaplaceOperationalTransformTable.png](../../_resources/LaplaceOperationalTransformTable.png)
+![LaplaceOperationalTransformTable.png](_resources/LaplaceOperationalTransformTable.png)
 
 # Inverse Laplace Transforms
 To perform inverse Laplace transforms, we can use the table of transforms to revert the function to the time domain. However, we often find what we are trying to convert is a fraction comprised of two polynomial expressions. To rectify this, we must perform ==partial fraction expansion== (see worked example).
 
 # Laplace Transform Worked Example
 
-![LaplaceTransformWorkedExample.png](../../_resources/LaplaceTransformWorkedExample.png)
+![LaplaceTransformWorkedExample.png](_resources/LaplaceTransformWorkedExample.png)
 
 For the above circuit, we can write the nodal equation as follows:
 $$

@@ -8,7 +8,7 @@ This assumption is the primary tool used in solving these circuits in conjunctio
 
 ## Example 
 The easiest way to show how the general solution for second-order differential equations is with a worked example.
-![RLCWorkedexampleDiagram.png](../../_resources/RLCWorkedexampleDiagram.png)
+![RLCWorkedexampleDiagram.png](_resources/RLCWorkedexampleDiagram.png)
 
 By performing nodal analysis on a parallel $RLC$ circuit with a voltage source $V$, we find:
 $$
