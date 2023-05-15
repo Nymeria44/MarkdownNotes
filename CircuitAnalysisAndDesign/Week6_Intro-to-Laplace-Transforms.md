@@ -23,7 +23,7 @@ Ku(t-a) = K, \quad t>a
 $$
 Where $K$ is an arbitrary function or constant.
 *Note it is a way to represent piece-wise functions in a single equation.*
-![UnitStepFunction.png](../../_resources/UnitStepFunction.png)
+![UnitStepFunction.png](_resources/UnitStepFunction.png)
 
 # The Impulse Function $\delta(t)$
 The impulse function allows us to find the value of another function at a specific point in time while disregarding the rest of it. Mathematically it is defined as:
