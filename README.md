@@ -10,4 +10,4 @@ Currently, there are a large number of formatting errors due to transitioning fr
 If you clone the repo and and render them using a markdown software with LaTex or KaTex support this should resolve these issues.
 
 # TO-DO
-I plan to address this issue as soon as I get time to do so (most likely by writing the notes up in LaTex instead of markdown).
+I plan to address this rendering issue as soon as I get time to do so (most likely by writing the notes up in LaTex instead of markdown).
