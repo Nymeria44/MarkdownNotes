@@ -20,7 +20,7 @@ $H_{max}$ is the maximum value of the magnitude of the transfer function.
 # Types of Frequency Selective Circuits
 Below are the plots of the Mangintude, $|H(j \omega)|$ and phase, $\theta (j \omega)$ of the 4 frequency selective circuits. 
 
-![TypesOfFrequencySelectiveCircuits.png]_resources/TypesOfFrequencySelectiveCircuits.png)
+![TypesOfFrequencySelectiveCircuits.png](_resources/TypesOfFrequencySelectiveCircuits.png)
 
 Where:
 a) Low-pass filter - Stops frequencies above the cutoff frequency $\omega_c$
