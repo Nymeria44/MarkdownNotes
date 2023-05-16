@@ -3,7 +3,7 @@ It is possible to build low-pass and high-pass filters using an op-amp. Two main
 
 Below is the general circuit diagram of the op-amps used for high-pass and low-pass filters:
 
-![GeneralOpAmpCircuit.png](resources/GeneralOpAmpCircuit.png)
+![GeneralOpAmpCircuit.png](_resources/GeneralOpAmpCircuit.png)
 
 This means that our transfer function will be:
 $$
